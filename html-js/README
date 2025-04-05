@@ -1,0 +1,7 @@
+npm install
+
+npx browserify index.js --standalone bundle -o ./dist/bundle.js
+
+install vscode extension ritwickdey.liveserver
+
+right-click on index.html file and choose Open with Live Server

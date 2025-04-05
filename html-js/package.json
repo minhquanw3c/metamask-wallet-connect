@@ -1,0 +1,15 @@
+{
+	"name": "metamask-connect-button",
+	"version": "1.0.0",
+	"description": "A simple project to learn about different ways of connecting to Dapps using Metamask wallet",
+	"main": "index.html",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"browserify": "^17.0.1",
+		"ethers": "^5.8.0"
+	}
+}
